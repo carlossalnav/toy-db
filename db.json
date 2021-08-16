@@ -1,0 +1,72 @@
+{
+    "works": [
+
+        {
+            "id": 0,
+            "titleEN": "ReactChat",
+            "descriptionEN": "A simple chat using React,Firebase and Google authentication",
+            "titleES": "ReactChat2",
+            "descriptionES": "Un chat simple usando React, Firebase y autenticación Google.",
+            "image": "https://i.ibb.co/5F2Pw8s/work-10.png",
+            "demoEN": "Demo",
+            "demoES": "Demostración",
+            "srcEN": "Source",
+            "srcES": "Código",
+            "tags": "html css javascript react" 
+        },
+        {
+            "id": 1,
+            "titleEN": "ReactAPI2",
+            "descriptionEN": "A simple chat using React,Firebase and Google authentication",
+            "titleES": "ReactChat2",
+            "descriptionES": "Un chat simple usando React, Firebase y autenticación Google.",
+            "image": "https://i.ibb.co/5F2Pw8s/work-10.png",
+            "demoEN": "Demo",
+            "demoES": "Demostración",
+            "srcEN": "Source",
+            "srcES": "Código",
+            "tags": "html css javascript react" 
+        },
+        {
+            "id": 2,
+            "titleEN": "VueChat",
+            "descriptionEN": "A simple chat using React,Firebase and Google authentication",
+            "titleES": "ReactChat2",
+            "descriptionES": "Un chat simple usando React, Firebase y autenticación Google.",
+            "image": "https://i.ibb.co/5F2Pw8s/work-10.png",
+            "demoEN": "Demo",
+            "demoES": "Demostración",
+            "srcEN": "Source",
+            "srcES": "Código",
+            "tags": "html css javascript vue" 
+        },
+        {
+            "id": 3,
+            "titleEN": "VueAPI",
+            "descriptionEN": "A simple chat using React,Firebase and Google authentication",
+            "titleES": "ReactChat2",
+            "descriptionES": "Un chat simple usando React, Firebase y autenticación Google.",
+            "image": "https://i.ibb.co/5F2Pw8s/work-10.png",
+            "demoEN": "Demo",
+            "demoES": "Demostración",
+            "srcEN": "Source",
+            "srcES": "Código",
+            "tags": "html css javascript vue" 
+        },
+        {
+            "id": 4,
+            "titleEN": "Landing Page",
+            "descriptionEN": "A simple chat using React,Firebase and Google authentication",
+            "titleES": "ReactChat2",
+            "descriptionES": "Un chat simple usando React, Firebase y autenticación Google.",
+            "image": "https://i.ibb.co/5F2Pw8s/work-10.png",
+            "demoEN": "Demo",
+            "demoES": "Demostración",
+            "srcEN": "Source",
+            "srcES": "Código",
+            "tags": "html css javascript" 
+        }
+
+
+    ]
+}
