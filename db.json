@@ -17,9 +17,9 @@
         {
             "id": 1,
             "titleEN": "ReactAPI2",
-            "descriptionEN": "A simple chat using React,Firebase and Google authentication",
+            "descriptionEN": "reactjs api description",
             "titleES": "ReactChat2",
-            "descriptionES": "Un chat simple usando React, Firebase y autenticación Google.",
+            "descriptionES": "descripcion de reactjs api",
             "image": "https://i.ibb.co/5F2Pw8s/work-10.png",
             "demoEN": "Demo",
             "demoES": "Demostración",
@@ -30,9 +30,9 @@
         {
             "id": 2,
             "titleEN": "VueChat",
-            "descriptionEN": "A simple chat using React,Firebase and Google authentication",
+            "descriptionEN": "vue chat description",
             "titleES": "ReactChat2",
-            "descriptionES": "Un chat simple usando React, Firebase y autenticación Google.",
+            "descriptionES": "descripcion de vue chat",
             "image": "https://i.ibb.co/5F2Pw8s/work-10.png",
             "demoEN": "Demo",
             "demoES": "Demostración",
@@ -43,9 +43,9 @@
         {
             "id": 3,
             "titleEN": "VueAPI",
-            "descriptionEN": "A simple chat using React,Firebase and Google authentication",
+            "descriptionEN": "vue api description",
             "titleES": "ReactChat2",
-            "descriptionES": "Un chat simple usando React, Firebase y autenticación Google.",
+            "descriptionES": "descripcion de vue api",
             "image": "https://i.ibb.co/5F2Pw8s/work-10.png",
             "demoEN": "Demo",
             "demoES": "Demostración",
@@ -56,15 +56,41 @@
         {
             "id": 4,
             "titleEN": "Landing Page",
-            "descriptionEN": "A simple chat using React,Firebase and Google authentication",
+            "descriptionEN": "landing page description",
             "titleES": "ReactChat2",
-            "descriptionES": "Un chat simple usando React, Firebase y autenticación Google.",
+            "descriptionES": "descripcion de landing page.",
             "image": "https://i.ibb.co/5F2Pw8s/work-10.png",
             "demoEN": "Demo",
             "demoES": "Demostración",
             "srcEN": "Source",
             "srcES": "Código",
             "tags": "html css javascript" 
+        },
+        {
+            "id": 5,
+            "titleEN": "AngularChat",
+            "descriptionEN": "angular chat description",
+            "titleES": "ReactChat2",
+            "descriptionES": "descripcion de angular chat",
+            "image": "https://i.ibb.co/5F2Pw8s/work-10.png",
+            "demoEN": "Demo",
+            "demoES": "Demostración",
+            "srcEN": "Source",
+            "srcES": "Código",
+            "tags": "html css javascript angular" 
+        }
+        {
+            "id": 6,
+            "titleEN": "AngularAPI",
+            "descriptionEN": "angular api description",
+            "titleES": "ReactChat2",
+            "descriptionES": "descripcion de angular api",
+            "image": "https://i.ibb.co/5F2Pw8s/work-10.png",
+            "demoEN": "Demo",
+            "demoES": "Demostración",
+            "srcEN": "Source",
+            "srcES": "Código",
+            "tags": "html css javascript angular" 
         }
 
 
